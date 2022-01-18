@@ -37,8 +37,8 @@ const manipulationDispatch = {
   "6": gaRed,
   "7": gaBlack,
   "8": halloweenScary,
-  "9": flipImageH2,
-  
+  "9": flipImageDistorted,
+  //the purpose for flipimageH2 is to give the user a distorted type of view; part of the original image (original pixels remain on the screen, while the image is flipped to it's side. It looks like they overlap!)                     
   
 }
 
@@ -68,10 +68,10 @@ function flipImageH() {
   }
 }
 
-function flipImageH2() {
+function flipImageDistorted() {
   for( let x = 0; x < myImage.width; x++ ) {
     for( let y = 0; y < myImage.height; y++ ) {
-      myImage.set(x,y,originalImage.get(myImage.height- y*1/2, x));
+      myImage.set(x,y,originalImage.get(myImage.height- y, x));
     }
   }
 }
@@ -179,9 +179,5 @@ function halloweenScary() {
   }
 }
 
-function filterMode() {
-  image(myImage,mouseX ,0)
-  filter(ERODE)
-  //heavy blurring; keep the mouse in one x-value; the image will stack on each other to form a thickening, blurring effect
-}
+
 

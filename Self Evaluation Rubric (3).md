@@ -10,7 +10,7 @@ The skills this project focused on were:
 My project exhibits
 
 - [ ] mastery of
-- [ ] proficiency with
+- [x] proficiency with
 - [ ] competency in
 - [ ] difficulty with
 - [ ] little understanding of
@@ -24,7 +24,7 @@ Put an 'X' inside the square brackets next to the above option that most closely
 
 This project represents
 
-- [ ] a great deal of
+- [x] a great deal of
 - [ ] some
 - [ ] very little
 - [ ] no
@@ -37,7 +37,7 @@ Put an 'X' inside the square brackets next to the above option that most closely
 
 For each of the following, put an 'X' inside the square brackets if it applies.
 
-- [ ] I understood what I was supposed to do for this project.
+- [x] I understood what I was supposed to do for this project.
 - [ ] I understood the language elements I was meant to use for this project. 
 - [ ] I can see how each of the six things (concepts) could be used on tihs project.  
 - [ ] My code is easy for *anyone* to read. 
@@ -48,7 +48,7 @@ For each of the following, put an 'X' inside the square brackets if it applies.
 
 For each of the following, put an 'X' inside the square brackets if it applies.
 
-- [ ] I demonstrate consideration of the potential users of my project. 
+- [x] I demonstrate consideration of the potential users of my project. 
 - [ ] My project is visually coherent.
 - [ ] My project was developed thoughtfully.
 - [ ] I envision this project as being something beyond an academic exercise. 
@@ -56,7 +56,7 @@ For each of the following, put an 'X' inside the square brackets if it applies.
 ### Diligence (HiD)
 
 I implemented the requirements the requirement of this project 
-- [ ] fully
+- [x] fully
 - [ ] mostly
 - [ ] somewhat
 - [ ] kind of
